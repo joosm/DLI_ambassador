@@ -1,4 +1,4 @@
-# DLI_ambassador project
+# DLI_ambassador project: Clock Reader
 - Based on the Jetson Nano course material (classification model for thumbs-up/down)
 - The original example from the course material has been modified to this project, "clock reader": given an image of analog clock face, the model reads the clock 
 
