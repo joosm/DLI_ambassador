@@ -1,4 +1,4 @@
-# DLI_ambassador project: Clock Reader
+# DLI ambassador project: Clock Reader
 - Based on the Jetson Nano course material (classification model for thumbs-up/down)
 - The original example from the course material has been modified to this project, "clock reader": given an image of analog clock face, the model reads the clock 
 
@@ -8,4 +8,4 @@
 - You can load and test an example model in the data folder
 - The summary of test results can be found in the summary file: DLI_ambassador_project_description_R1.pdf
 - A short movie clip for model training: DLI_project_model_training_clip.mp4
-- The jupyter notebook file (clock_reader_interactive.ipynb) has been tested with JetPack 4.6.1 on Jetson board
+- The jupyter notebook file (clock_reader_interactive.ipynb) has been tested with Jetson SD card image (built with JetPack 4.6.1) on Jetson board
