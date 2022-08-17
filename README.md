@@ -1,4 +1,4 @@
-# DLI ambassador project: Clock Reader
+# DLI project: Clock Reader
 
 ![what_time_is_it](https://user-images.githubusercontent.com/3192324/185134059-e0fe20ed-ec36-47eb-93d5-946fd59c8208.png)
 
