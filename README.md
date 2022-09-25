@@ -9,6 +9,6 @@
 
 - Each time category (i.e. 1~12) has approx 50 images for training (in /data/clock_fingers_A folder)
 - You can load and test an example model in the data folder
-- The summary of test results can be found in the summary file: DLI_ambassador_project_description_R1.pdf
+- The summary of test results can be found in the summary file: DLI_ambassador_project_description_R3.pdf
 - A short movie clip for model training: DLI_project_model_training_clip.mp4
 - The jupyter notebook file (clock_reader_interactive.ipynb) has been tested with Jetson SD card image (built with JetPack 4.6.1) on Jetson board
