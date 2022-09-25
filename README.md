@@ -5,7 +5,7 @@
 - Based on the Jetson Nano course material (classification model for thumbs-up/down)
 - The original example from the course material has been modified to this project, "clock reader": given an image of analog clock face, the model reads the clock 
 
-![clock_reader](https://user-images.githubusercontent.com/3192324/185050448-337f6bed-e5c6-493f-9f19-bf715a508b90.png)
+![clock_reader](https://user-images.githubusercontent.com/3192324/192149994-68c34bb9-25d8-4319-a605-9343889c2299.png)
 
 - Each time category (i.e. 1~12) has approx 50 images for training (in /data/clock_fingers_A folder)
 - You can load and test an example model in the data folder
