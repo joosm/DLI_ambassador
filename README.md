@@ -4,6 +4,7 @@
 
 - Based on the Jetson Nano course material (classification model for thumbs-up/down)
 - The original example from the course material has been modified to this project, "clock reader": given an image of analog clock face, the model reads the clock 
+- Test setup: Jetson, Logitech C920 Webcam
 
 ![clock_reader](https://user-images.githubusercontent.com/3192324/192149994-68c34bb9-25d8-4319-a605-9343889c2299.png)
 
