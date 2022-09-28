@@ -17,4 +17,6 @@
 - A short movie clip for model training: DLI_project_model_training_clip.mp4
 - The jupyter notebook file (clock_reader_interactive.ipynb) has been tested with Jetson SD card image (built with JetPack 4.6.1) on the Jetson board
 
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp
+
 ![Training Demo](https://user-images.githubusercontent.com/3192324/192687486-9ccf4e23-a2ff-4e80-b92e-0894bc2e0160.mp4)
