@@ -6,7 +6,7 @@
 
 ![what_time_is_it](https://user-images.githubusercontent.com/3192324/185134059-e0fe20ed-ec36-47eb-93d5-946fd59c8208.png)
 
-- Based on the Jetson Nano course material (classification model for thumbs-up/down)
+- Based on the Jetson Nano course material ([classification model for thumbs-up/down](https://github.com/socd06/dli_thumbs))
 - The original example from the course material has been modified to this project, "clock reader": given an image of analog clock face, the model reads the clock 
 - Test setup: Jetson Xavier, Logitech C920 Webcam
 - Two notebook scripts
