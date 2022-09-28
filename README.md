@@ -19,7 +19,7 @@
 - You can load and test an example model in the data folder
 - The summary of test results can be found in the summary file: DLI_ambassador_project_description_R3.pdf
 - The jupyter notebook file (clock_reader_interactive.ipynb) has been tested with Jetson SD card image (built with JetPack 4.6.1) on the Jetson board
-- A short movie clip for model training: DLI_project_model_training_clip.mp4 (below)
+- A short movie clip for model training(below)
 
 https://user-images.githubusercontent.com/3192324/192693167-aba984c0-804c-4934-99f8-662a081baaf2.mp4
 
